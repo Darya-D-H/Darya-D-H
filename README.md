@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💠 About Me:
 - Backend Developer<br>
 
