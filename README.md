@@ -7,12 +7,14 @@
 
 ---
 
+## `~/about-me`
+
 ```json
 {
   "alias"    : "Darya-D-H",
+  "role"     : "Backend Developer",
   "status"   : "Always building something...",
   "location" : "The Terminal",
-  "contact"  : "darya01.auto@gmail.com",
   "focus"    : [
                  "Clean Architecture",
                  "RESTful APIs",
@@ -28,7 +30,6 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Open+to+collaborations)](https://git.io/typing-svg)
-
 <br/>
 
 [![Email](https://img.shields.io/badge/Email-darya01.auto%40gmail.com-006219?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:darya01.auto@gmail.com)
@@ -36,23 +37,17 @@
 </div>
 
 ---
-
 ## `~/tech-stack`
 
 <div align="center">
 
-<!-- Languages -->
-**[ LANGUAGES ]**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=00FF41&labelColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=00FF41&labelColor=000000)
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=00FF41&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=00FF41&labelColor=000000)
-<br>
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=00FF41&labelColor=000000)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00FF41)
 
 </div>
 
