@@ -10,7 +10,6 @@
 ```json
 {
   "alias"    : "Darya-D-H",
-  "role"     : "Backend Developer",
   "status"   : "Always building something...",
   "location" : "The Terminal",
   "contact"  : "darya01.auto@gmail.com",
