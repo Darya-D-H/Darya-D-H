@@ -11,7 +11,6 @@
 ```json
 {
   "alias"    : "Darya-D-H",
-  "role"     : "Backend Developer",
   "status"   : "Always building something...",
   "location" : "The Terminal",
   "focus"    : [
@@ -35,6 +34,7 @@
 
 </div>
 
+<!--
 ---
 ## `~/tech-stack`
 
@@ -49,6 +49,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-555557?style=for-the-badge&logo=laravel&logoColor=00FF41)
 
 </div>
+
+-->
 
 <!--
 ---
