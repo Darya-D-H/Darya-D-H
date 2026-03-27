@@ -41,6 +41,7 @@
 
 </div>
 
+<!--
 ---
 
 ## `~/stats`
@@ -54,7 +55,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Darya-D-H&theme=matrix&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41)
 
 </div>
-
+-->
 ---
 
 ## `~/activity`
@@ -85,7 +86,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  "First, solve the problem. Then, write the code."      ║
+║  "First, solve the problem. Then, write the code."       ║
 ║                                          — John Johnson  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
