@@ -1,7 +1,7 @@
 <!-- Matrix rain header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Backend+Developer;System+Architect;Code.+Build.+Deploy.+Repeat.;%24+whoami+%E2%86%92+Darya-D-H)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&height=100&width=600&lines=Hi.;I%27m+Darya;a+Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
