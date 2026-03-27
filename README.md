@@ -78,6 +78,7 @@
 
 </div>
 
+<!--
 ---
 
 <div align="center">
@@ -88,8 +89,9 @@
 ║                                          — John Johnson  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-<!--
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=Darya-D-H&color=00ff41&style=for-the-badge&label=VISITORS&base=100)
--->
 
 </div>
+-->
+
