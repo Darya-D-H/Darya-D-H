@@ -21,7 +21,19 @@
                ]
 }
 ```
+---
 
+## `~/connect`
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=Open+to+collaborations;Always+up+for+a+challenge;Let%27s+build+something+awesome)](https://git.io/typing-svg)
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-darya01.auto%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:darya01.auto@gmail.com)
+
+</div>
 
 ---
 
@@ -68,20 +80,6 @@
 
 ---
 
-## `~/connect`
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=500&lines=Open+to+collaborations;Always+up+for+a+challenge;Let%27s+build+something+awesome)](https://git.io/typing-svg)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-darya01.auto%40gmail.com-00FF41?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:darya01.auto@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 ```
@@ -90,7 +88,8 @@
 ║                                          — John Johnson  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
-
+<!--
 ![Visitor Count](https://komarev.com/ghpvc/?username=Darya-D-H&color=00ff41&style=for-the-badge&label=VISITORS&base=100)
+-->
 
 </div>
