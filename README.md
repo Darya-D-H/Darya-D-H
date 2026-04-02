@@ -11,7 +11,7 @@
 ```json
 {
   "alias"    : "Darya-D-H",
-  "status"   : "Always building something...",
+  "status"   : "lost in debugging...",
   "location" : "The Terminal",
   "focus"    : [
                  "Clean Architecture",
