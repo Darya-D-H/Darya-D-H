@@ -27,5 +27,3 @@
 <br/>
 [![Email](https://img.shields.io/badge/Email-darya01.auto%40gmail.com-006219?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:darya01.auto@gmail.com)
 </div>
-
-
