@@ -23,7 +23,7 @@
 ## `~/connect`
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Open+to+collaborations)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=00FF41&center=true&vCenter=true&width=500&lines=Open+to+collaborations)](https://git.io/typing-svg)
 <br/>
 [![Email](https://img.shields.io/badge/Email-darya.dler.contact%40gmail.com-006219?style=flat&logo=gmail&logoColor=00FF41)](mailto:darya.dler.contact@gmail.com)
 </div>
