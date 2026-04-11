@@ -9,7 +9,7 @@
 ```json
 {
   "alias"    : "Darya-D-H",
-  "status"   : "lost in debugging...",
+  "status"   : "Lost in debugging...",
   "location" : "The Terminal",
   "focus"    : [
                  "Clean Architecture",
