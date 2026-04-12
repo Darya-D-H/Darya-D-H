@@ -13,7 +13,6 @@
   "location" : "The Terminal",
   "focus"    : [
                  "Clean Architecture",
-                 "RESTful APIs",
                  "System Design",
                  "Performance Optimization"
                ]
