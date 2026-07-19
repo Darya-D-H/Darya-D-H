@@ -8,7 +8,6 @@
 ## `~/about-me`
 ```json
 {
-  "alias"    : "Darya-D-H",
   "status"   : "Lost in debugging...",
   "location" : "The Terminal",
   "focus"    : [
